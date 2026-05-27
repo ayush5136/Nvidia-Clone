@@ -1,21 +1,68 @@
-# Nvidia Clone Website
+# 🟢 Nvidia Clone Website
 
-A simple Nvidia website clone built with HTML, CSS, and JavaScript for learning frontend development.
+A simple clone of the Nvidia website built with pure **HTML**, **CSS**, and **JavaScript** to practice and strengthen frontend development skills.
 
-## Features
-- Responsive design
-- Clean UI
-- Interactive elements with JavaScript
+---
 
-## Tech Stack
-- HTML5
-- CSS3
-- JavaScript
+## 🚀 Features
 
-## How to Use
-1. Clone the repository
-2. Open `index.html` in your browser
-3. Explore the website!
+- Responsive design that works on different screen sizes
+- Clean and modern UI inspired by the Nvidia website
+- Interactive elements powered by JavaScript
 
-## Learning Purpose
-This project is created to practice and improve frontend development skills.
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| **HTML5** | Page structure and content |
+| **CSS3** | Styling and layout |
+| **JavaScript** | Interactivity and dynamic elements |
+
+---
+
+## 📁 Project Structure
+
+```
+Nvidia-Clone/
+├── index.html    → Main HTML page
+├── style.css     → Stylesheet
+├── script.js     → JavaScript logic
+└── README.md
+```
+
+---
+
+## ▶️ How to Run
+
+No installation or build step needed! Just:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/ayush5136/Nvidia-Clone.git
+```
+
+2. Open the project folder:
+```bash
+cd Nvidia-Clone
+```
+
+3. Open `index.html` directly in your browser — and you're done! ✅
+
+---
+
+## 🎯 Purpose
+
+This project was built for **learning purposes** to practice:
+- HTML page structure and semantic tags
+- CSS layout techniques (Flexbox, positioning)
+- Basic JavaScript DOM manipulation
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+> ⚠️ **Disclaimer:** This is a clone project made purely for educational purposes. All design credits belong to [NVIDIA Corporation](https://www.nvidia.com).

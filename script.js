@@ -1,15 +1,23 @@
-let selectTheme = document.querySelector(`#theme`)
+const theme = document.getElementById("theme");
 
-selectTheme.addEventListener(`change`,function(){
-    if(this.value ===`Dark`){
-        document.body.style.backgroundColor=`black`;
-        document.body.style.color=`white`;
-    }
-    else if(this.value ===`Light`){
-        document.body.style.backgroundColor=`white`;
-        document.body.style.color=`black`;
-    }   
-    
-    
-    
+
+// =========================================================
+// APPLY INITIAL THEME
+// =========================================================
+
+if (theme.value === "Dark") {
+  document.body.classList.add("dark-mode");
+}
+
+
+// =========================================================
+// CHANGE THEME
+// =========================================================
+
+theme.addEventListener("change", function () {
+  if (theme.value === "Dark") {
+    document.body.classList.add("dark-mode");
+  } else {
+    document.body.classList.remove("dark-mode");
+  }
 });

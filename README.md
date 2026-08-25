@@ -1,6 +1,6 @@
 # 🟢 Nvidia Clone Website
 
-A simple clone of the Nvidia website built with pure **HTML**, **CSS**, and **JavaScript** to practice and strengthen frontend development skills.
+A simple clone of the Nvidia website built with pure **HTML**, **CSS**, and **JavaScript** to practice and strengthen frontend development skills and in upcoming days i will create some projects using react js and will use css libraries like tailwind and for animations i will learn framer and AOS.
 
 ---
 
